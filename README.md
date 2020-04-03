@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-There were not big problems while building the app, however, I clicked the back button too many times while testing the app, so 'Rate limit exceeded' error was caused. I had to wait 15 minutes to relaunch it.
+There were not big problems while building the app, however, I clicked the back button too many times while testing the app, so 'Rate limit exceeded' error was caused. I had to wait a few minutes to relaunch it.
 
 ## Open-source libraries used
 
